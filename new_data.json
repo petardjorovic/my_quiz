@@ -1,0 +1,177 @@
+[
+  {
+    "text": "What is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctAnswer": "Amazon",
+    "category": "Geography",
+    "points": 5
+  },
+  {
+    "text": "Which country has the most islands in the world?",
+    "options": ["Indonesia", "Sweden", "Philippines", "Norway"],
+    "correctAnswer": "Sweden",
+    "category": "Geography",
+    "points": 6
+  },
+  {
+    "text": "What is the largest desert in the world?",
+    "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+    "correctAnswer": "Antarctic",
+    "category": "Geography",
+    "points": 7
+  },
+  {
+    "text": "Which continent has the most countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correctAnswer": "Africa",
+    "category": "Geography",
+    "points": 5
+  },
+  {
+    "text": "What is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswer": "Ottawa",
+    "category": "Geography",
+    "points": 4
+  },
+  {
+    "text": "How many players are there in a soccer team?",
+    "options": ["9", "10", "11", "12"],
+    "correctAnswer": "11",
+    "category": "Sports",
+    "points": 3
+  },
+  {
+    "text": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Brazil", "Italy", "Argentina"],
+    "correctAnswer": "Brazil",
+    "category": "Sports",
+    "points": 5
+  },
+  {
+    "text": "What is the national sport of Japan?",
+    "options": ["Karate", "Sumo Wrestling", "Judo", "Baseball"],
+    "correctAnswer": "Sumo Wrestling",
+    "category": "Sports",
+    "points": 6
+  },
+  {
+    "text": "How many rings are on the Olympic flag?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "category": "Sports",
+    "points": 4
+  },
+  {
+    "text": "Which sport is known as 'king of sports'?",
+    "options": ["Cricket", "Soccer", "Tennis", "Rugby"],
+    "correctAnswer": "Soccer",
+    "category": "Sports",
+    "points": 5
+  },
+  {
+    "text": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+    "correctAnswer": "George Washington",
+    "category": "History",
+    "points": 3
+  },
+  {
+    "text": "In which year was the Berlin Wall torn down?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correctAnswer": "1989",
+    "category": "History",
+    "points": 5
+  },
+  {
+    "text": "Who was the first man to step on the moon?",
+    "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+    "correctAnswer": "Neil Armstrong",
+    "category": "History",
+    "points": 6
+  },
+  {
+    "text": "Which empire was known as 'The Land of the Rising Sun'?",
+    "options": ["Roman Empire", "Japanese Empire", "Mongol Empire", "Ottoman Empire"],
+    "correctAnswer": "Japanese Empire",
+    "category": "History",
+    "points": 4
+  },
+  {
+    "text": "What year did World War I start?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "correctAnswer": "1914",
+    "category": "History",
+    "points": 5
+  },
+  {
+    "text": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Charlotte Bronte", "Jane Austen", "Emily Bronte", "Mary Shelley"],
+    "correctAnswer": "Jane Austen",
+    "category": "Literature",
+    "points": 4
+  },
+  {
+    "text": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "options": ["Hamlet", "Macbeth", "Othello", "The Tempest"],
+    "correctAnswer": "Hamlet",
+    "category": "Literature",
+    "points": 6
+  },
+  {
+    "text": "What is the name of the wizarding school in Harry Potter?",
+    "options": ["Hogwarts", "Ilvermorny", "Durmstrang", "Beauxbatons"],
+    "correctAnswer": "Hogwarts",
+    "category": "Literature",
+    "points": 3
+  },
+  {
+    "text": "Who is the author of '1984'?",
+    "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Kurt Vonnegut"],
+    "correctAnswer": "George Orwell",
+    "category": "Literature",
+    "points": 5
+  },
+  {
+    "text": "What is the first name of Dr. Frankenstein in Mary Shelley's novel?",
+    "options": ["Victor", "Henry", "Robert", "Alphonse"],
+    "correctAnswer": "Victor",
+    "category": "Literature",
+    "points": 4
+  },
+  {
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "correctAnswer": "Mitochondria",
+    "category": "Science",
+    "points": 5
+  },
+  {
+    "text": "What planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "correctAnswer": "Mercury",
+    "category": "Science",
+    "points": 4
+  },
+  {
+    "text": "What is the symbol for gold on the periodic table?",
+    "options": ["Au", "Ag", "Pb", "Go"],
+    "correctAnswer": "Au",
+    "category": "Science",
+    "points": 5
+  },
+  {
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide",
+    "category": "Science",
+    "points": 3
+  },
+  {
+    "text": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "100,000 km/s", "50,000 km/s"],
+    "correctAnswer": "300,000 km/s",
+    "category": "Science",
+    "points": 6
+  }
+]
