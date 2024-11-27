@@ -1,0 +1,72 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": "Paris",
+    "category": "Geography",
+    "points": 5
+  },
+  {
+    "text": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "Mark Twain", "J.D. Salinger", "George Orwell"],
+    "correctAnswer": "Harper Lee",
+    "category": "Literature",
+    "points": 7
+  },
+  {
+    "text": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO2"],
+    "correctAnswer": "H2O",
+    "category": "Science",
+    "points": 3
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Mars",
+    "category": "Astronomy",
+    "points": 4
+  },
+  {
+    "text": "In which year did World War II end?",
+    "options": ["1942", "1945", "1948", "1950"],
+    "correctAnswer": "1945",
+    "category": "History",
+    "points": 6
+  },
+  {
+    "text": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+    "correctAnswer": "Blue Whale",
+    "category": "Biology",
+    "points": 5
+  },
+  {
+    "text": "Which programming language is known for its snake logo?",
+    "options": ["Java", "Python", "Ruby", "C++"],
+    "correctAnswer": "Python",
+    "category": "Technology",
+    "points": 4
+  },
+  {
+    "text": "What is the square root of 81?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "category": "Mathematics",
+    "points": 3
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci",
+    "category": "Art",
+    "points": 8
+  },
+  {
+    "text": "Which sport is known as 'the beautiful game'?",
+    "options": ["Basketball", "Soccer", "Tennis", "Cricket"],
+    "correctAnswer": "Soccer",
+    "category": "Sports",
+    "points": 5
+  }
+]
